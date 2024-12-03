@@ -1,1 +1,0 @@
-/usr/bin/cc  -pthread CMakeFiles/main.dir/src/cache.c.o CMakeFiles/main.dir/src/logging.c.o CMakeFiles/main.dir/src/main.c.o CMakeFiles/main.dir/src/proxy.c.o CMakeFiles/main.dir/src/thread_pool.c.o -o bin/main 
